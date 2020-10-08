@@ -56,7 +56,7 @@
           </execution>
         </executions>
         <configuration>
-          <mainClass>pt.it.sec.App</mainClass>
+          <mainClass>pt.it.sec.Main</mainClass>
         </configuration>
       </plugin>
     </plugins>
