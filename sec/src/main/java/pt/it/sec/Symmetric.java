@@ -1,5 +1,6 @@
 import java.utils.*;
 
+
 public class Symmetric{
 
     //Encrypt - Symmetric
