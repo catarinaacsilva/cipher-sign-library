@@ -1,6 +1,6 @@
-#
+# Cryptographic libarry
 
-# Cipher and Sign Algorithms
+The following functions was implemented on this library:
 
 - Generate Key pair (public and private)
 - Generate Symmetric key
@@ -11,7 +11,7 @@
 - Sign
 - verify
 
-## Encryption and Decryption
+Some considerations about the asymmetric and symmetric encryption
 
 - To asymmetric encryption and decryption was used RSA algorithm
 - To symmetric encryption and decryption was used AES algorithm
@@ -19,7 +19,9 @@
 
 ## Requirements
 
-## Installation
+- Maven
+- Java
+
 
 ## Authors
 
