@@ -22,6 +22,11 @@ Some considerations about the asymmetric and symmetric encryption
 - Maven
 - Java
 
+# Run
+
+- Clean: `mvn clean`
+- Compile: `mvn compile`
+- Execute: `mvn exec:java`
 
 ## Authors
 
